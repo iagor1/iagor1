@@ -12,3 +12,4 @@ tenho muita criatividade e resiliência 🙂
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iagor1&show_icons=true&locale=en" alt="iagor1" /></p>
 
 [![linkedin](https://img.shields.io/badge/linkedin%20-iagor-blue)](https://www.linkedin.com/in/iagor-molino-luchesi-45aa06202/)
+[![Curriculo online](https://img.shields.io/badge/curriculo-online-green)](https://site-curriculo-8ngt18c9y-iagor1.vercel.app)
