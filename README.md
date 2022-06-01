@@ -1,5 +1,5 @@
 ### Iagor Molino Luchesi
-Eu sou Iagor, estudante de Sistema da informação, atualmente estou no terceiro período. Sempre gostei de tecnologia, sou apaixonado
+Eu sou Iagor, estudante de Sistema da informação, atualmente estou no terceiro período
 
 
 ### Linguagens e ferramentas:
