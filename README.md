@@ -1,5 +1,5 @@
 ### Iagor Molino Luchesi
-Eu sou Iagor, estudante de Sistema da informação, atualmente estou no quinto período
+Eu sou Iagor, estudante de Sistema da informação, atualmente estou no quinto período e estagiando no Tribunal De Justiça do Estado de Rondônia
 
 
 ### Linguagens e ferramentas:
