@@ -3,7 +3,13 @@ Eu sou Iagor, estudante de Sistema da informação, atualmente estou no 6 perío
 Im Iagor, student of information systems, im now in the 6 semester of 8, working as intern on Court of Justice of the State of Rondônia, more info on my linkedin. 
 
 
-### Linguagens e ferramentas:
+<div>
+<a href="https://github.com/iagor1">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagor1&layout=compact&langs_count=15&theme=dracula" alt="iagor1" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iagor1&show_icons=true&locale=en" alt="iagor1" />
+</div> 
+
+#### Linguagens e ferramentas / Langs and tools:
 <div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
@@ -17,8 +23,4 @@ Im Iagor, student of information systems, im now in the 6 semester of 8, working
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagor1&theme=blue-green" alt="iagor1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iagor1&show_icons=true&locale=en" alt="iagor1" /></p>
-  
-[![linkedin](https://img.shields.io/badge/linkedin%20-iagor-blue)](https://www.linkedin.com/in/iagor-molino-luchesi-45aa06202/)
-
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/iagor-molino-luchesi-45aa06202/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
