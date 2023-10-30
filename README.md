@@ -23,5 +23,5 @@ Im Iagor, student of information systems, im now in the 6 semester of 8, working
 <br>
 
 
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/iagor-molino-luchesi-45aa06202/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/iagorml/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![An image of @iagor1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iagor1)](https://holopin.io/@iagor1)
