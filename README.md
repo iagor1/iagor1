@@ -1,6 +1,6 @@
 ## About me 
-Eu sou Iagor, estudante de Sistema da informação, atualmente estou no 6 período de 8 e trabalhando como estagiário no Tribunal De Justiça<br>
-Im Iagor, student of information systems, im now in the 6 semester of 8, working as intern on Court of Justice, more info on my linkedin. 
+Eu sou Iagor, estudante de Sistema da informação, atualmente estou no 6 período de 8 e trabalhando como Devops Jr na [ozmap](https://ozmap.net/)<br>
+Im Iagor, student of information systems, im now in the 6 semester of 8, working as Devops Jr at [ozmap](https://ozmap.net/) more info on my linkedin. 
 
 ## 📊 GitHub Stats:
 <div>
