@@ -1,9 +1,9 @@
 ## About me 
 PT-BR 🇧🇷
-Eu sou Iagor, estudante de Sistema da informação, atualmente estou no 6 período de 8 e trabalhando como Devops Jr na [ozmap](https://ozmap.net/)<br>
+Eu sou Iagor, bacharelado em Sistemas de Informação, atuando como Devops Jr na [ozmap](https://ozmap.net/)<br>
 
 EN 🇺🇸
-Im Iagor, student of information systems, im now in the 6 semester of 8, working as Devops Jr at [ozmap](https://ozmap.net/) more info on my linkedin. 
+Im Iagor, i have a Bachelor's Degree in Information Systems, working as Devops Jr at [ozmap](https://ozmap.net/) more info on my linkedin. 
 
 ## 📊 GitHub Stats:
 <div>
